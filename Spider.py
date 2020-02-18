@@ -39,6 +39,7 @@ def getInfo():
         name = soup.select('#spacename')
         for name in name:
             print(name.get_text()[2:-5])
+            end
 
 
 if __name__ == '__main__':
