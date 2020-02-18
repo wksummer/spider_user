@@ -43,4 +43,3 @@ def getInfo():
 
 if __name__ == '__main__':
     getInfo()
-    pass
