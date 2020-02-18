@@ -1,9 +1,4 @@
 import requests
-import re
-import xlrd
-import random
-import time
-import csv
 from bs4 import BeautifulSoup
 
 
@@ -48,4 +43,4 @@ def getInfo():
 
 if __name__ == '__main__':
     getInfo()
-
+    pass
